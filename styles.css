@@ -1,3 +1,10 @@
+.textcenter{
+  text-align: center;
+}
+body{
+  background-color: rgb(172, 137, 172);
+}
+
 body {
   font-family: "Lato", sans-serif;
   margin: 0px;
@@ -93,7 +100,7 @@ body {
 }
 
 .img-text-wrapper:hover .subtitle {
-  color: lightseagreen;
+  color: royalblue;
   font-weight: 600;
 }
 
@@ -116,5 +123,10 @@ body {
 }
 
 .profile-content-wrapper h1 {
-  color: lightseagreen;
+  color: royalblue;
 }
+
+table {
+  border-spacing: 40px 0;
+}
+
